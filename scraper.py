@@ -28,13 +28,22 @@ def fetch_papers(person_name, lab_url):
     
     return papers
 
-# 将爬取的数据写入新的 Excel 文件
-def save_to_excel(data, output_file):
-    df = pd.DataFrame(data, columns=['Name', 'Lab URL', 'Paper Title', 'Paper Link'])
-    df.to_excel(output_file, index=False)
+# 将爬取的数据写入 HTML 文件
+def save_to_html(data, output_file):
+    html_content = "<html><head><title>Scholar Papers</title></head><body>"
+    html_content += "<h1>Scholar Papers</h1>"
+    html_content += "<table border='1'><tr><th>Name</th><th>Lab URL</th><th>Paper Title</th><th>Paper Link</th></tr>"
+    
+    for row in data:
+        html_content += f"<tr><td>{row[0]}</td><td>{row[1]}</td><td>{row[2]}</td><td><a href='{row[3]}'>Link</a></td></tr>"
+    
+    html_content += "</table></body></html>"
+    
+    with open(output_file, 'w') as f:
+        f.write(html_content)
 
 # 主函数
-def main(input_excel, output_excel):
+def main(input_excel, output_html):
     # 读取输入的 Excel 文件
     data = read_excel(input_excel)
     
@@ -50,12 +59,12 @@ def main(input_excel, output_excel):
         for paper_title, paper_link in papers:
             results.append([person_name, lab_url, paper_title, paper_link])
 
-    # 保存爬取的数据到新的 Excel 文件
-    save_to_excel(results, output_excel)
-    print(f"爬取的数据已保存到 {output_excel}")
+    # 保存爬取的数据到 HTML 文件
+    save_to_html(results, output_html)
+    print(f"爬取的数据已保存到 {output_html}")
 
 # 调用主函数
 if __name__ == '__main__':
     input_excel = 'input_data.xlsx'  # 输入的 Excel 文件
-    output_excel = 'output_papers.xlsx'  # 输出的 Excel 文件
-    main(input_excel, output_excel)
+    output_html = 'index.html'  # 输出的 HTML 文件
+    main(input_excel, output_html)
