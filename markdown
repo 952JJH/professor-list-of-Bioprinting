@@ -1,3 +1,0 @@
-- .github/workflows/paper-checker.yml
-- scholars.json 
-- fetch_papers.py
