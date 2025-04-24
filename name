@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>教授实验室导航</title>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: 20px auto; padding: 20px; }
+        .professor { padding: 10px; border-bottom: 1px solid #eee; }
+        a { color: #0366d6; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>教授实验室导航</h1>
+    
+    <div class="professor">
+        <a href="https://web.stanford.edu/~boyd/" target="_blank">Stephen Boyd - 斯坦福大学控制系统实验室</a>
+    </div>
+    
+    <div class="professor">
+        <a href="https://www.di.ens.fr/~lelarge/" target="_blank">Marc Lelarge - 巴黎高科机器学习实验室</a>
+    </div>
+    
+    <!-- 复制上方<div>块修改链接和姓名添加更多教授 -->
+</body>
+</html>
