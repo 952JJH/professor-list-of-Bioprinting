@@ -1,5 +1,5 @@
-| Name（google scholar） | 所属机构 | Homepage | ORCID |
-|--------------|----------|---------------|----------------|
+| Name（google scholar） | 所属机构 | Homepage | ORCID | 公众号 |
+|--------------|----------|---------------|----------------|---------------|
 | [Y. Shrike Zhang](https://scholar.google.com/citations?hl=zh-CN&user=qnEhC_EAAAAJ) | Harvard Medical School（US） | [Link](https://shrikezhang.com/publications/publications) | |
 | [Jennifer A. Lewis](https://scholar.google.com/citations?hl=en&user=Wdny3bkAAAAJ) | Harvard University（US） | [Link](https://lewisgroup.seas.harvard.edu/publications) | |
 | [Liliang Ouyang](https://scholar.google.com/citations?user=06FvzQAAAAJ&hl=en) | Tsinghua University（China） | [Link](https://llouyang.com/publications/) | |
@@ -14,6 +14,6 @@
 | [James Armstrong](https://scholar.google.co.uk/citations?user=Mm_-8UQAAAAJ&hl=en) | University of Bristol（UK） | [Link](https://thearmstronggroup.co.uk/2021/01/full-list-of-publications/) | |
 | [Anthony Atala](NA) | Wake Forest University School of Medicine（US） | [Link](https://profiles.wakehealth.edu/display/Person/aatala) | [ORCID](https://orcid.org/0000-0001-8186-2160) |
 | [贺永（Yong He）](https://scholar.google.com/citations?user=ft7p6QcAAAAJ&hl=zh-CN) | Zhejiang University（China） | [Link](https://person.zju.edu.cn/en/bioprinting) | |
-| [Adam W. Feinberg](https://scholar.google.com/citations?user=cncJ21oAAAAJ&hl=en) | Carnegie Mellon University（US） | [Link](https://regenerativebiomaterials.com/) | |
+| [Adam W. Feinberg](https://scholar.google.com/citations?user=cncJ21oAAAAJ&hl=en) | Carnegie Mellon University（US） | [Link](https://regenerativebiomaterials.com/) | [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2Mjg4MzY0MA==&action=getalbum&album_id=3861895843544219665&scene=173&subscene=91&sessionid=2147116225&enterid=1745903841&from_msgid=2247484797&from_itemidx=1&count=3&nolastread=1#wechat_redirect) | |
 | [Amir Sheikhi](https://scholar.google.com/citations?hl=en&user=Gdfi-lkAAAAJ) | Penn State University（US） | [Link](https://www.sheikhilab.com/) | |
 | 邵磊（Shao Lei）| Ningbo University（China） | [researchgate](https://www.researchgate.net/profile/Shao-Lei-3) |
