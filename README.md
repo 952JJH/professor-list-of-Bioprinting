@@ -1,7 +1,7 @@
 # Professor-list-of-Bioprinting
 ## 🎓 
 
-| Name（谷歌链接） | 所属机构 | Homepage |
+| Name（谷歌链接） | 所属机构 | Homepage |ORCID |
 |--------------|----------|------------|
 | [Y. Shrike Zhang](https://scholar.google.com/citations?hl=zh-CN&user=qnEhC_EAAAAJ) | Harvard Medical School（US） | [链接](https://shrikezhang.com/publications/publications) |
 | [Jennifer A. Lewis](https://scholar.google.com/citations?hl=en&user=Wdny3bkAAAAJ) | Harvard University（US） | [链接](https://lewisgroup.seas.harvard.edu/publications) |
@@ -14,7 +14,11 @@
 | [Donald Ingber](https://scholar.google.com/citations?user=3hzhsK4AAAAJ&hl=zh-CN&oi=ao) | Harvard University（US） | [链接](https://wyss.harvard.edu/team/core-faculty/donald-ingber/) |
 | [Christopher B. Highley](https://scholar.google.com/citations?user=mdJzLNQAAAAJ&hl=zh-CN&oi=ao) | University of Virginia（US） | [链接](https://highleylab.com/#papers) |
 | [Wei Sun](https://scholar.google.com/citations?user=K85IGAUAAAAJ&hl=en) | Tsinghua University（China） | [链接](NA) |
-| [James Armstrong](https://scholar.google.co.uk/citations?user=Mm_-8UQAAAAJ&hl=en) | University of Bristol（UK） | [链接]() |
+| [James Armstrong](https://scholar.google.co.uk/citations?user=Mm_-8UQAAAAJ&hl=en) | University of Bristol（UK） | [链接](https://thearmstronggroup.co.uk/2021/01/full-list-of-publications/) |
+| [Anthony Atala](NA) | Wake Forest University School of Medicine（US） | [链接](https://profiles.wakehealth.edu/display/Person/aatala) |[ORCID](https://orcid.org/0000-0001-8186-2160) 
+
+
+
 
 
 
