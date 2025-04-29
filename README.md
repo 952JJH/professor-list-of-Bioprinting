@@ -13,5 +13,5 @@
 | [Martin Ehrbar](https://scholar.google.com/citations?hl=zh-CN&user=fp_1WrcAAAAJ) | University of Zurich (Switzerland) | [Lab](https://www.dbm.uzh.ch/en/research/researchgroups/ehrbar.html) |
 | [Marcy Zenobi-Wong](https://scholar.google.ch/citations?user=AUKQ2kIAAAAJ&hl=de) | ETH Zurich (Switzerland) | [Lab](https://biofabrication.ethz.ch/) |
 | [Ali Khademhosseini](https://scholar.google.com/citations?hl=zh-CN&user=3hzhsK4AAAAJ) | Terasaki Institute (US) | [Lab](https://www.terasaki.org/about/leadership/ali-khademhosseini) |
-| [Jürgen Groll](https://scholar.google.com/citations?hl=zh-CN&user=5HX--AYAAAAJ) | University of Würzburg (Germany) | [Lab](https://www.rzm.uni-wuerzburg.de/en/3d/) |
+| [Donald Ingber](https://scholar.google.com/citations?hl=zh-CN&user=5HX--AYAAAAJ) | University of Würzburg (Germany) | [Lab](https://www.rzm.uni-wuerzburg.de/en/3d/) |
 | [Jason A. Burdick](https://scholar.google.com/citations?user=wcrTZm0AAAAJ&hl=zh-CN) | University of Colorado (US) | [Lab](https://www.colorado.edu/lab/burdick/) |
