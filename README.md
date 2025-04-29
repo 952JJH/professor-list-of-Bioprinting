@@ -2,7 +2,7 @@
 ## 🎓 
 
 | Name | 所属机构 | Homepage |ORCID |
-|--------------|----------|------------|------------|
+|--------------|----------|---------------|----------------|
 
 | [Y. Shrike Zhang](https://scholar.google.com/citations?hl=zh-CN&user=qnEhC_EAAAAJ) | Harvard Medical School（US） | [Link](https://shrikezhang.com/publications/publications) |
 | [Jennifer A. Lewis](https://scholar.google.com/citations?hl=en&user=Wdny3bkAAAAJ) | Harvard University（US） | [Link](https://lewisgroup.seas.harvard.edu/publications) |
@@ -20,7 +20,7 @@
 | [贺永（Yong He）](https://scholar.google.com/citations?user=ft7p6QcAAAAJ&hl=zh-CN) | Zhejiang University（China） | [Link](https://person.zju.edu.cn/en/bioprinting) |
 | [Adam W. Feinberg](https://scholar.google.com/citations?user=cncJ21oAAAAJ&hl=en) | Carnegie Mellon University（US） | [Link](https://regenerativebiomaterials.com/) |
 | [Amir Sheikhi](https://scholar.google.com/citations?hl=en&user=Gdfi-lkAAAAJ) | Penn State University（US） | [Link](https://www.sheikhilab.com/) |
-| Lei Shao| Ningbo University（US） | [Link]([https://www.sheikhilab.com/](https://www.researchgate.net/profile/Shao-Lei)) |
+
 
 
 
