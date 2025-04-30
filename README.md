@@ -17,7 +17,7 @@
 | [Adam W. Feinberg](https://scholar.google.com/citations?user=cncJ21oAAAAJ&hl=en) | Carnegie Mellon University（US） | [Link](https://regenerativebiomaterials.com/) | |[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2Mjg4MzY0MA==&action=getalbum&album_id=3861895843544219665&scene=173&subscene=91&sessionid=2147116225&enterid=1745903841&from_msgid=2247484797&from_itemidx=1&count=3&nolastread=1#wechat_redirect) | |
 | [Amir Sheikhi](https://scholar.google.com/citations?hl=en&user=Gdfi-lkAAAAJ) | Penn State University（US） | [Link](https://www.sheikhilab.com/) | |
 | 邵磊（Shao Lei）| Ningbo University（China） | [researchgate](https://www.researchgate.net/profile/Shao-Lei-3) ||
-| [熊卓（Zhuo Xiong）](https://scholar.google.com/citations?user=Dk1UWrwAAAAJ&hl=en&oi=ao)| Tsinghua University（China） | [Link]([https://www.researchgate.net/profile/Shao-Lei-3](https://me.tsinghua.edu.cn/info/1106/3002.htm)) ||[公众号]()|
+| [熊卓（Zhuo Xiong）](https://scholar.google.com/citations?user=Dk1UWrwAAAAJ&hl=en&oi=ao)| Tsinghua University（China） | [Link]([https://www.researchgate.net/profile/Shao-Lei-3](https://me.tsinghua.edu.cn/info/1106/3002.htm)) ||[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2Mjg4MzY0MA==&action=getalbum&album_id=3953581551673065486#wechat_redirect)|
 | [方永聪（Yongcong Fang）]()| Tsinghua University（China） | [Link](https://me.tsinghua.edu.cn/info/1108/2951.htm) ||[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2Mjg4MzY0MA==&action=getalbum&album_id=3953581552444817411&scene=173&subscene=227&sessionid=1746007638&enterid=1746007643&from_msgid=2247484719&from_itemidx=2&count=3&nolastread=1#wechat_redirect)||
 | 张婷（Ting Zhang）|Tsinghua University（China） |
 
