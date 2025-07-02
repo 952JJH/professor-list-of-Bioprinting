@@ -21,6 +21,6 @@
 | [方永聪（Yongcong Fang）]()| Tsinghua University（China） | [Link](https://me.tsinghua.edu.cn/info/1108/2951.htm) |[Researchgate](https://www.researchgate.net/profile/Fang-Yongcong)|[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2Mjg4MzY0MA==&action=getalbum&album_id=3953581552444817411&scene=173&subscene=227&sessionid=1746007638&enterid=1746007643&from_msgid=2247484719&from_itemidx=2&count=3&nolastread=1#wechat_redirect)||
 | 张婷（Ting Zhang）|Tsinghua University（China） |[Link](https://me.tsinghua.edu.cn/info/1107/1656.htm)||[公众号]()||
 | 孙家明（Jiaming Sun）| Huazhong University of Science and Technology（China） | [Link](https://scholargps.com/scholars/89052688418887/jiaming-sun) ||[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2Mjg4MzY0MA==&action=getalbum&album_id=3907967676844261376#wechat_redirect)||
-| 苟马玲（Maling Gou）| Sichuan University（China） | [Link] ||[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2Mjg4MzY0MA==&action=getalbum&album_id=3889722908100182016#wechat_redirect)||
-| Marcy Zenobi-Wong | ETH Zürich（Switzerland） | [Link](https://biofabrication.ethz.ch/) ||[]||
+| 苟马玲（Maling Gou）| Sichuan University（China） | [Link]() ||[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2Mjg4MzY0MA==&action=getalbum&album_id=3889722908100182016#wechat_redirect)||
+| Marcy Zenobi-Wong | ETH Zürich（Switzerland） | [Link](https://biofabrication.ethz.ch/) ||[公众号]()||
 
