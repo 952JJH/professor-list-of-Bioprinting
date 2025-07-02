@@ -22,5 +22,5 @@
 | 张婷（Ting Zhang）|Tsinghua University（China） |[Link](https://me.tsinghua.edu.cn/info/1107/1656.htm)||[公众号]()||
 | 孙家明（Jiaming Sun）| Huazhong University of Science and Technology（China） | [Link](https://scholargps.com/scholars/89052688418887/jiaming-sun) ||[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2Mjg4MzY0MA==&action=getalbum&album_id=3907967676844261376#wechat_redirect)||
 | 苟马玲（Maling Gou）| Sichuan University（China） | [Link] ||[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2Mjg4MzY0MA==&action=getalbum&album_id=3889722908100182016#wechat_redirect)||
-| Marcy Zenobi-Wong | ETH Zürich（Switzerland） | [Link_(https://biofabrication.ethz.ch/) ||[公众号]||
+| Marcy Zenobi-Wong | ETH Zürich（Switzerland） | [Link](https://biofabrication.ethz.ch/) ||[]||
 
