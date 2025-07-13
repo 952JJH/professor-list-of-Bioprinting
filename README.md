@@ -4,6 +4,7 @@
 | [Jennifer A. Lewis](https://scholar.google.com/citations?hl=en&user=Wdny3bkAAAAJ) | Harvard University（US） | [Link](https://lewisgroup.seas.harvard.edu/publications) | |
 | [欧阳礼亮（Liliang Ouyang）](https://scholar.google.com/citations?user=06FvzQAAAAJ&hl=en) | Tsinghua University（China） | [Link](https://llouyang.com/publications/) | |[公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2Mjg4MzY0MA==&action=getalbum&album_id=3859399767281025029#wechat_redirect)| |
 | [Jos Malda](https://scholar.google.com/citations?hl=en&user=yGM2EnIAAAAJ) | Utrecht University（Netherlands） | [Link](https://www.maldalab.org/research-output) || [公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2Mjg4MzY0MA==&action=getalbum&album_id=3924635740193079299&scene=173&subscene=227&sessionid=1746007660&enterid=1746007664&from_msgid=2247484463&from_itemidx=1&count=3&nolastread=1#wechat_redirect)| |
+| [Riccardo Levato](https://scholar.google.com/citations?user=MZh0HWcAAAAJ&hl=it) | Utrecht University（Netherlands） | [Link](https://www.levatolab.eu/research) || [公众号]()| |
 | [Shaochen Chen](https://scholar.google.com/citations?hl=zh-CN&user=2bTg5Q0AAAAJ) | University of California, San Diego（US） | [Link](https://schen.ucsd.edu/lab/publications.html) | |
 | [Shulamit Levenberg](https://scholar.google.com/citations?hl=zh-CN&user=NZiXOl8AAAAJ) | Technion-Israel Institute of Technology（Israel） | [Link](https://levenberg.net.technion.ac.il/) | |
 | [Mark Skylar-Scott](https://scholar.google.com/citations?user=fp_1WrcAAAAJ&hl=zh-CN) | Stanford University（US） | | |
